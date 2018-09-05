@@ -8,3 +8,5 @@ should be ordered alphabetically.
 of the random starting String may vary but could be assumed to be in the range of 5-15 characters. Again, words should
 be ordered in descending order with the highest scoring first. If several words have the same score they should be
 ordered alphabetically.
+
+scrabble_word_leaderboard.py
